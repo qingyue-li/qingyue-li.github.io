@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Qingyue Li
@@ -15,7 +15,7 @@ sidebar:
     email: qingyue.li@anu.edu.au
     phone: 0406 241 218
     website: https://qingyue-li.github.io/
-    linkedin:
+    linkedin: https://www.linkedin.com/in/qingyue-marco-li-413b0085/
     github:
     gitlab:
     bitbucket:
@@ -27,41 +27,27 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a PhD candidate in actuarial study. My current research topics are panel data analysis and household finance. Most of my work is based on Household, Income and Labour Dynamics in Australia (HILDA) Survey.
+      I am a PhD candidate in actuarial study. My current research topics are panel data analysis and household finance.
 education:
-    - degree: PhD in Acturial Study
+    - degree: PhD in Actuarial Study
       university: Australian National University
       time: 2019 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I have been working on the topic "impact of private health insurance on household financial decisoins". 
+        My work is mainly based on Household, Income and Labour Dynamics in Australia (HILDA) Survey.
     - degree: Master of Actuarial Practice
       university: Australian National University
       time: 2016 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I graduated from this two and a half years program with recommendation on December 2018.
+          - Average HD grade
+          - Exemptions of Part I, Part II and ERM part of Part III acquired
     - degree: Bachelor of Infomation and Computing Science
       university: Fudan University
       time: 2012 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I finished this four years math major program on June 2016. This program included foundamental and advanced math courses
+        like mathematical analysis, advanced algebra, probability theory, and functional analysis. 
 #experiences:
 #    - role: Research Asistant
 #      time: 2019 - Present
@@ -78,7 +64,7 @@ projects:
       - title: STAT3035 Risk Theory
         link: "https://programsandcourses.anu.edu.au/course/STAT3035"
         tagline: | 
-          - <a href="qingyue-li.github.io/assets/Risk%20Theory%20Tutorial%201.pdf" target="_blank">Tutorial 1</a>
+          <a href="qingyue-li.github.io/assets/Risk%20Theory%20Tutorial%201.pdf" target="_blank">Tutorial 1</a> |
           
 
 
