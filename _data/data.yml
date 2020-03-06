@@ -57,12 +57,13 @@ education:
 projects:
     title: teaching
     intro: >
-      I have been doing tutoring since the start of my PhD. Here are some resources of my teaching materials.
+      I have been doing tutoring since first semester 2019. In the first semester 2020, I tutored the remote course as a head tutor due to the cronavirus. Here are some resources of my teaching materials.
     assignments:
       - title: STAT3035 Risk Theory (First semester 2019 & 2020)
         link: "https://programsandcourses.anu.edu.au/course/STAT3035"
         tagline: | 
-          <a href="qingyue-li.github.io/assets/Risk%20Theory%20Tutorial%201.pdf" target="_blank">Tutorial 1</a> |
+          <a href="qingyue-li.github.io/assets/Tutorial%201%20slides.pdf" target="_blank">Tutorial 1</a> |
+          <a href="qingyue-li.github.io/assets/Tutorial%202%20slides.pdf" target="_blank">Tutorial 2</a> | 
       - title: STAT2001 Introductory Mathematical Statistics (First semester 2020)
         link: "https://programsandcourses.anu.edu.au/course/STAT2001"
         tagline: |
