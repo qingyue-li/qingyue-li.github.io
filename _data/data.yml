@@ -64,9 +64,6 @@ projects:
         tagline: | 
           <a href="qingyue-li.github.io/assets/Tutorial%201%20slides.pdf" target="_blank">Tutorial 1</a> |
           <a href="qingyue-li.github.io/assets/Tutorial%202%20slides.pdf" target="_blank">Tutorial 2</a> | 
-      - title: STAT2001 Introductory Mathematical Statistics (First semester 2020)
-        link: "https://programsandcourses.anu.edu.au/course/STAT2001"
-        tagline: |
           
       - title: STAT3036/4036/8036 Credibility Theory (Second semester 2019)
         link: "https://programsandcourses.anu.edu.au/course/STAT3036"
