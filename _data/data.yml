@@ -33,18 +33,18 @@ education:
       university: Australian National University
       time: 2019 - Present
       details: |
-        I have been working on the topic concerning impact of private health insurance on household financial decisoins. 
+        I have been working on the topic concerning household financial decisoins. 
         My work is mainly based on the Household, Income and Labour Dynamics in Australia (HILDA) Survey.
     - degree: Master of Actuarial Practice
       university: Australian National University
       time: 2016 - 2018
       details: |
-        I got this master degree with commendation on December 2018. Exemptions of all subjects under Part I, Part II and ERM module of Part III were acquired from the Actuaries Institute.
+        I received my master degree with commendation in December 2018. Exemptions of all subjects under Part I, Part II and ERM module of Part III were acquired from the Actuaries Institute.
     - degree: Bachelor of Infomation and Computing Science
       university: Fudan University
       time: 2012 - 2016
       details: |
-        I finished this four years math major program on June 2016. This degree included fundamental and advanced math courses
+        I finished this four years math major program in June 2016. This degree included fundamental and advanced math courses
         like mathematical analysis, advanced algebra, probability theory, and functional analysis. 
 #experiences:
 #    - role: Research Asistant
@@ -59,7 +59,7 @@ projects:
     intro: >
       I have been doing tutoring since first semester 2019. In first semester 2020, I tutored Risk Theory remote course as a head tutor due to the COVID-19 situation. Here are some resources of my teaching materials.
     assignments:
-      - title: STAT3035 Risk Theory (First semester 2019 & 2020)
+      - title: STAT3035/4035/8035 Risk Theory (First semester 2019 & 2020)
         link: "https://programsandcourses.anu.edu.au/2020/course/STAT3035/First%20Semester/4864"
         tagline: | 
           <a href="qingyue-li.github.io/assets/Tutorial%201%20slides.pdf" target="_blank">Tutorial 1</a> |
